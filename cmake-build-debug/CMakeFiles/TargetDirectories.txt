@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Descuento_en_Tienda/cmake-build-debug/CMakeFiles/Operadores_Descuento_en_Tienda.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Descuento_en_Tienda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Descuento_en_Tienda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
